@@ -3,7 +3,7 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
 // importation de bibliothèques et initialisation
 const axios = require("axios");
-const playlistId = 14857074483;
+const playlistId = 00000000; // put playlist ID here
 let idArray = [];
 let titleArray = [];
 let chillArray = [];
